@@ -1,2 +1,3 @@
 # hello-world
-first repo just to start with
+First repo just to start with
+SE starting to look around github
